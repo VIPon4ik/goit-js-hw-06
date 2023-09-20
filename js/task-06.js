@@ -9,5 +9,4 @@ inputElem.addEventListener('blur', () => {
     }
 
     inputElem.classList.add('invalid');
-    console.log(inputElem)
 })
